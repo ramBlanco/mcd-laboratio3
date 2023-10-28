@@ -1,0 +1,7 @@
+.venv
+# files
+*.txt
+*.gz
+*.csv
+*.xls
+*.xlsx
